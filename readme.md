@@ -1,4 +1,4 @@
-Some bootcamp exercises attempting to create a bubble sort algorithm from scratch.
+Some bootcamp exercises to create basic sorting algorithm from scratch.
 
 commit #1: Bubble Sort
 
